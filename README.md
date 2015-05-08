@@ -1,8 +1,11 @@
 # bdd-workshop
+![alt text](http://lakion.com/assets/img/logo.png "Lakion")
 
 [Lakion facebook](https://www.facebook.com/lakiondotcom)
 
 [Lakion.com](http://lakion.com)
+
+![alt text](http://sylius.org/assets/img/logo.png "Sylius")
 
 [Sylius.org](http://sylius.org)
 
